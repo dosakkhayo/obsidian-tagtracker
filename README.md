@@ -2,7 +2,7 @@
 
 Embed all notes with a selected tag into a single note.
 
-![Demo]()
+![Demo](demo.gif)
 ## Features
 - Automatically finds all notes containing a specific tag
 - Embeds them as `![[note]]` links into a generated note
